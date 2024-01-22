@@ -54,8 +54,20 @@ section{
     background-repeat: no-repeat;
 }
 
+.top-left:hover{
+    background-image: url(/assets/img/1b.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .top-center{
     background-image: url(/assets/img/2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top-center:hover{
+    background-image: url(/assets/img/2b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -66,8 +78,20 @@ section{
     background-repeat: no-repeat;
 }
 
+.top-right:hover{
+    background-image: url(/assets/img/3b.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .bottom-left{
     background-image: url(/assets/img/4.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bottom-left:hover{
+    background-image: url(/assets/img/4b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -78,8 +102,20 @@ section{
     background-repeat: no-repeat;
 }
 
+.bottom-center:hover{
+    background-image: url(/assets/img/5b.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .bottom-right{
     background-image: url(/assets/img/6.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bottom-right:hover{
+    background-image: url(/assets/img/6b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -109,11 +145,22 @@ section{
     display: flex;
     justify-content: flex-start;
     column-gap: 15rem;
-    margin-left: 31.3rem;
-
+    margin-left: 13.8%;
     align-items: flex-start;
 }
 
 .price{
     color: red;
 }
+
+.ex-price{
+    text-decoration: line-through;
+}
+
+
+footer{
+    height: 400px;
+    display: flex;
+    background-color: black;
+}
+
