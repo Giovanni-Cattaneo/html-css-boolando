@@ -30,27 +30,22 @@ a:hover{
     align-self: center;
 }
 
-main{
-
-}
-
 section{
-    margin: 3rem 0;
+    margin: 1rem 0 0.5rem 0;
 }
+
 .container{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+    column-gap: 1.2rem;
 }
 
 .img-box{
-    width: 200px;
-    height: 200px;
-    border: 1px solid;
-    align-self: center;
-}
+    width: 446px;
+    height: 646px;
+    position: relative
 
-.secondary{
 }
 
 .top-left{
@@ -89,3 +84,36 @@ section{
     background-repeat: no-repeat;
 }
 
+.discount{
+    position: absolute;
+    background-color: red;
+    padding: 3px 5px;
+    color: white;
+    bottom: 5%;
+}
+
+.sustainability{
+    position: absolute;
+    background-color: green;
+    color: white;
+    padding: 3px 5px;
+    bottom: 5%;
+    left: 11%;
+}
+
+.last-bottom-right{
+    left: 0;
+}
+
+.price-type{
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 15rem;
+    margin-left: 31.3rem;
+
+    align-items: flex-start;
+}
+
+.price{
+    color: red;
+}
