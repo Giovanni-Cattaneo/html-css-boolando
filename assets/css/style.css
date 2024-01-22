@@ -161,6 +161,7 @@ section{
     column-gap: 15rem;
     margin-left: 13.8%;
     align-items: flex-start;
+    margin-bottom: 1rem;
 }
 
 .price{
@@ -177,7 +178,7 @@ footer{
     background-color: #1a1a1a;
     justify-content: space-around;
     color: white;
-    padding: 5rem 0;
+    padding: 3rem 0;
 }
 
 h3{
