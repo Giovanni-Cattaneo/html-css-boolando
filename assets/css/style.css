@@ -161,6 +161,7 @@ section{
     justify-content: center;
     column-gap: 20rem;
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 .price{
