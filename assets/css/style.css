@@ -157,10 +157,8 @@ section{
 
 .price-type{
     display: flex;
-    justify-content: flex-start;
-    column-gap: 15rem;
-    margin-left: 13.8%;
-    align-items: flex-start;
+    justify-content: center;
+    column-gap: 20rem;
     margin-bottom: 1rem;
 }
 
