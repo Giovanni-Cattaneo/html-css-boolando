@@ -26,9 +26,19 @@ a:hover{
     text-decoration: underline;
     cursor: pointer;
 }
-
-
 /* #endregion common*/
+
+
+/* #region header*/
+#site-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #ff6900;
+    padding: 0.5rem;
+    box-shadow: 0 0 10px;
+}
+/* #endregion header*/
 
 .logo{
     display: flex;
@@ -53,16 +63,7 @@ a:hover{
     position: relative
 }
 
-/* #region header*/
-#site-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    background-color: #ff6900;
-    padding: 0.5rem;
-    box-shadow: 0 0 10px;
-}
-/* #endregion header*/
+
 
 
 /* #region img-container*/  
