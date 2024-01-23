@@ -177,7 +177,6 @@ section{
     text-decoration: line-through;
 }
 
-
 footer{
     display: flex;
     background-color: #1a1a1a;
@@ -193,4 +192,5 @@ h3{
 #bottom-text{
     margin-bottom: 1rem;
 }
+
 
