@@ -52,7 +52,7 @@ body{
 }
 
 .img-box{
-    width: 446px;
+    width: calc(100% / 12 * 3);
     height: 646px;
     position: relative
 }
