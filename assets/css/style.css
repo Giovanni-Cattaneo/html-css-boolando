@@ -21,6 +21,9 @@ a{
     color: white;
 }
 
+.heart:hover{
+    color: red;
+}
 i{
     color: white;
 }
