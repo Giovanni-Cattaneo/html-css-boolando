@@ -68,73 +68,73 @@ a:hover{
 
 /* #region img-container*/  
 .top-left{
-    background-image: url(/assets/img/1.webp);
+    background-image: url(../img/1.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .top-left:hover{
-    background-image: url(/assets/img/1b.webp);
+    background-image: url(../img/1b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .top-center{
-    background-image: url(/assets/img/2.webp);
+    background-image: url(../img/2.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .top-center:hover{
-    background-image: url(/assets/img/2b.webp);
+    background-image: url(../img/2b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .top-right{
-    background-image: url(/assets/img/3.webp);
+    background-image: url(../img/3.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .top-right:hover{
-    background-image: url(/assets/img/3b.webp);
+    background-image: url(../img/3b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-left{
-    background-image: url(/assets/img/4.webp);
+    background-image: url(../img/4.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-left:hover{
-    background-image: url(/assets/img/4b.webp);
+    background-image: url(../img/4b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-center{
-    background-image: url(/assets/img/5.webp);
+    background-image: url(../img/5.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-center:hover{
-    background-image: url(/assets/img/5b.webp);
+    background-image: url(../img/5b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-right{
-    background-image: url(/assets/img/6.webp);
+    background-image: url(../img/6.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bottom-right:hover{
-    background-image: url(/assets/img/6b.webp);
+    background-image: url(../img/6b.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
