@@ -29,7 +29,6 @@ a:hover{
 
 body{
     width: 100%;
-    max-width: ;
     margin: auto;
 }
 
@@ -42,9 +41,6 @@ body{
     padding-right: 10rem;
 }
 
-section{
-    margin: 1rem 0 0.5rem 0;
-}
 
 .container{
     display: flex;
