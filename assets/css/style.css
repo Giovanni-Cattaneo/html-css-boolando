@@ -27,11 +27,6 @@ a:hover{
     cursor: pointer;
 }
 
-body{
-    width: 100%;
-    max-width: 1920px;
-    margin: auto;
-}
 
 /* #endregion common*/
 
@@ -65,6 +60,7 @@ body{
     justify-content: space-evenly;
     background-color: #ff6900;
     padding: 0.5rem;
+    box-shadow: 0 0 10px;
 }
 /* #endregion header*/
 
