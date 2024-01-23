@@ -1,15 +1,8 @@
+/* #region common*/
 *{
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-#site-header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #ff6900;
-    padding: 0.5rem;
 }
 
 .gender-categories{
@@ -34,6 +27,8 @@ a:hover{
     cursor: pointer;
 }
 
+/* #endregion common*/
+
 .logo{
     display: flex;
     justify-content: center;
@@ -57,8 +52,21 @@ section{
     width: 446px;
     height: 646px;
     position: relative
-
 }
+
+/* #region img-container*/  
+
+/* #region header*/
+#site-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff6900;
+    padding: 0.5rem;
+}
+/* #endregion header*/
+
+
 
 .top-left{
     background-image: url(/assets/img/1.webp);
@@ -131,7 +139,9 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
 }
+/* #endregion img-container*/ 
 
+/* #region price and symbol tag*/
 .discount{
     position: absolute;
     background-color: red;
@@ -177,7 +187,10 @@ section{
 .ex-price{
     text-decoration: line-through;
 }
+/* #endregion price and symbol tag*/ 
 
+
+/* #region footer*/
 footer{
     display: flex;
     background-color: #1a1a1a;
@@ -194,4 +207,5 @@ h3{
     margin-bottom: 1rem;
 }
 
+/* #endregion footer*/
 
